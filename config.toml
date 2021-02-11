@@ -13,3 +13,5 @@ defaultcontentlanguage = "en"
 
   colorScheme = "dark"
   hidecolorschemetoggle = true
+
+[Taxonomies]
